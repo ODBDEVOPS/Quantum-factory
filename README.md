@@ -1,1 +1,1 @@
-# -Quantum-factory
+# Quantum-factory
